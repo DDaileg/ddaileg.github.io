@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
+[IBM Data Science Capstone: Winning Space Race with Data Science](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
