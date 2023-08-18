@@ -9,7 +9,7 @@
 
 ---
 [IBM Data Science Capstone Findings Report](pdf/Capstone Findings Report.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/image.png"/>
 
 ---
 
