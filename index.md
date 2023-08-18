@@ -12,8 +12,8 @@
 <img src="images/image.png"/>
 
 ---
-[Coursera Data Science Coding Challenge:Churn Prediction](https://www.coursera.org/workspaces/authenticate/sharedopcmjzlp?path=%2Fnotebooks%2FChurnPrediction.ipynb&forceRefresh=false&isLabVersioning=file-prep)
-<img src="images/streaming-services-courtesy-of-tech-radar.png"/>
+<!--[Coursera Data Science Coding Challenge:Churn Prediction](https://www.coursera.org/workspaces/authenticate/sharedopcmjzlp?path=%2Fnotebooks%2FChurnPrediction.ipynb&forceRefresh=false&isLabVersioning=file-prep)-->
+<!--<img src="images/streaming-services-courtesy-of-tech-radar.png"/>-->
 
 
 
