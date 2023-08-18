@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[IBM Data Science Capstone: Winning Space Race with Data Science](/sample_page)
+[IBM Data Science Capstone: Winning Space Race with Data Science](https://github.com/DDaileg/IBM-Data-Science-Capstone-Project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
