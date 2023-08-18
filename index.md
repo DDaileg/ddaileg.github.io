@@ -13,6 +13,7 @@
 
 ---
 [Coursera Data Science Coding Challenge:Churn Prediction](https://sharedopcmjzlp.labs.coursera.org/notebooks/ChurnPrediction.ipynb)
+<img src="images/streaming-services-courtesy-of-tech-radar.png"/>
 
 
 
