@@ -11,7 +11,8 @@
 [IBM Data Science Capstone Findings Report](pdf/Capstone Findings Report.pdf)
 <img src="images/image.png"/>
 
-
+---
+[Coursera Data Science Coding Challenge:Churn Prediction](https://sharedopcmjzlp.labs.coursera.org/notebooks/ChurnPrediction.ipynb)
 
 
 
