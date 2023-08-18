@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[IBM Data Science Capstone ](/pdf/sample_presentation.pdf)
+[IBM Data Science Capstone Findings Report](/pdf/"Capstone Findings Report".pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
