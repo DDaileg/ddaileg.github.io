@@ -4,7 +4,7 @@
 
 [Neural 20 Questions: Multi-Agent Entropy-Based AI](https://github.com/DDaileg/neural-20-questions)
 
-A multi-agent AI that identifies unknown concepts through entropy-optimal yes/no questioning. Uses a hybrid reasoning layer: hard boolean filtering via a structured attribute table, semantic re-ranking via spaCy cosine similarity (300-dim vectors), and ConceptNet-driven question selection for knowledge-graph arbitration. Architecture: BeliefAgent, QuestionAgent, GuesserAgent, and GameRunner. Reasoning trace exposed per turn — entropy score, candidate count, question source.
+A multi-agent AI that identifies unknown concepts through entropy-optimal yes/no questioning. Uses a hybrid reasoning layer: hard boolean filtering via a structured attribute table, semantic re-ranking via spaCy cosine similarity (300-dim vectors), and ConceptNet-driven question selection for knowledge-graph arbitration. Architecture: BeliefAgent, QuestionAgent, GuesserAgent, and GameRunner. Reasoning trace exposed per turn: entropy score, candidate count, question source.
 
 *Phase 3: Streamlit demo in progress.*
 
