@@ -1,36 +1,32 @@
 ## Portfolio
-
 ---
+### Projects
 
-### Projects 
+[Neural 20 Questions: Multi-Agent Entropy-Based AI](https://github.com/DDaileg/neural-20-questions)
 
-[IBM Data Science Capstone: Winning Space Race with Data Science](https://ddaileg.github.io/IBM-Data-Science-Capstone-Project/)
-<img src="images/Rocket Landing.gif"/>
+A multi-agent AI that identifies unknown concepts through entropy-optimal yes/no questioning. Uses a hybrid reasoning layer: hard boolean filtering via a structured attribute table, semantic re-ranking via spaCy cosine similarity (300-dim vectors), and ConceptNet-driven question selection for knowledge-graph arbitration. Architecture: BeliefAgent, QuestionAgent, GuesserAgent, and GameRunner. Reasoning trace exposed per turn — entropy score, candidate count, question source.
 
----
-[IBM Data Science Capstone Findings Report](pdf/Capstone Findings Report.pdf)
-<img src="images/image.png"/>
-
----
-[Neural 20 Questions: Entropy-Based AI Game](https://github.com/DDaileg/neural-20-questions)
-
-An AI that plays 20 Questions using Shannon entropy to select the most informative question at each turn. Built in Python with pandas and numpy — demonstrates information theory, binary feature engineering, and visible reasoning in a working system.
+*Phase 3: Streamlit demo in progress.*
 
 ![](https://ddaileg.github.io/images/neural-20q.png)
 
 ---
-<!--[Coursera Data Science Coding Challenge:Churn Prediction](https://www.coursera.org/workspaces/authenticate/sharedopcmjzlp?path=%2Fnotebooks%2FChurnPrediction.ipynb&forceRefresh=false&isLabVersioning=file-prep)-->
-<!--<img src="images/streaming-services-courtesy-of-tech-radar.png"/>-->
 
+[IBM Data Science Capstone: Winning Space Race with Data Science](https://ddaileg.github.io/IBM-Data-Science-Capstone-Project/)
 
+End-to-end data science project analyzing SpaceX launch data to predict first-stage rocket landing success. Covers data collection (REST API + web scraping), EDA, SQL analysis, interactive Folium/Plotly Dash visualizations, and a tuned classification model.
 
+<img src="images/Rocket Landing.gif"/>
 
+---
 
+[IBM Data Science Capstone Findings Report](pdf/Capstone Findings Report.pdf)
 
+Formal findings report from the SpaceX capstone project. Documents methodology, key insights, and model performance recommendations for a fictional competitor looking to underbid SpaceX launches.
 
+<img src="images/image.png"/>
 
-
-
+---
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
