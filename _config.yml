@@ -1,13 +1,16 @@
-title: Daniel Daileg # your name (or website title) here
-logo: "images/Grad Circle Cropped.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Carson, CA| daileg.daniel@gmail.com | (310)972-8275
+title: Daniel Daileg
+logo: "images/Grad Circle Cropped.png?raw=true"
+description: >
+  Carson, CA | daileg.daniel@gmail.com | (310) 972-8275
   <br><br>
-  Private Tutor seeking a position in NLP/Data Science
+  AI Systems Developer · NLP · Agent Architecture · Educator
   <br><br>
-  <a href="https://www.linkedin.com/in/daniel-daileg-31109614a/">View My LinkedIn Profile</a> 
-  
+  I build agent-based NLP systems at the intersection of information theory, linguistics, and pedagogy.
+  <br><br>
+  <a href="https://www.linkedin.com/in/daniel-daileg-31109614a/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://medium.com/@daileg.daniel">Medium</a>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0
